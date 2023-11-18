@@ -27,6 +27,10 @@
   },
   "tabs": [
     {
+      "name": "Contributing",
+      "url": "contributing"
+    },
+    {
       "name": "Roadmap",
       "url": "https://www.google.com"
     },
@@ -39,6 +43,9 @@
       "url": "https://www.google.com"
     }
   ],
+  "primaryTab": {
+    "name": "Home"
+  },
   "modeToggle": {
     "default": "dark",
     "isHidden": true
@@ -48,22 +55,40 @@
       "group": "Getting Started",
       "pages": [
         "gettingstarted/intro",
-        "gettingstarted/code",
-        "gettingstarted/introduction"
+        "gettingstarted/Create An Account",
+        "gettingstarted/Create Workspace"
       ]
     },
     {
-      "group": "Getting Started",
+      "group": "Chat Deployments",
       "pages": [
         "gettingstarted/intro",
         "gettingstarted/code",
         "gettingstarted/introduction"
       ]
+    },
+    {
+      "group": "Chat Module Functions",
+      "pages": [
+        "gettingstarted/intro",
+        "gettingstarted/code",
+        "gettingstarted/introduction"
+      ]
+    },
+    {
+      "group": "Chat Module Theming",
+      "pages": [
+        "theming/widget"
+      ]
+    },
+    {
+      "group": "Contributing",
+      "pages": ["contributing/code", "contributing/code"]
     }
   ],
   "footerSocials": {
-    "twitter": "https://twitter.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
+    "twitter": "https://twitter.com/zeonhq",
+    "github": "https://github.com/zeon-hq/zeon",
+    "linkedin": "https://www.linkedin.com/company/zeonhq"
   }
 }
