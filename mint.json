@@ -27,8 +27,8 @@
   },
   "tabs": [
     {
-      "name": "Contributing",
-      "url": "contributing"
+      "name": "Open Source",
+      "url": "opensource"
     },
     {
       "name": "Roadmap",
@@ -55,16 +55,18 @@
       "group": "Getting Started",
       "pages": [
         "gettingstarted/intro",
-        "gettingstarted/Create An Account",
-        "gettingstarted/Create Workspace"
+        "gettingstarted/Create Account",
+        "gettingstarted/Workspace & Roles",
+        "gettingstarted/Self-Hosting Zeon"
       ]
     },
     {
       "group": "Chat Deployments",
       "pages": [
-        "gettingstarted/intro",
-        "gettingstarted/code",
-        "gettingstarted/introduction"
+        "deployments/HTML",
+        "deployments/Webflow",
+        "deployments/WordPress",
+        "deployments/React"
       ]
     },
     {
@@ -77,13 +79,11 @@
     },
     {
       "group": "Chat Module Theming",
-      "pages": [
-        "theming/widget"
-      ]
+      "pages": ["theming/widget"]
     },
     {
-      "group": "Contributing",
-      "pages": ["contributing/code", "contributing/code"]
+      "group": "Getting Started",
+      "pages": ["opensource/license", "opensource/contributing"]
     }
   ],
   "footerSocials": {
