@@ -27,8 +27,8 @@
   },
   "tabs": [
     {
-      "name": "Open Source",
-      "url": "opensource"
+      "name": "Chat",
+      "url": "chat"
     },
     {
       "name": "Roadmap",
@@ -44,7 +44,7 @@
     }
   ],
   "primaryTab": {
-    "name": "Home"
+    "name": "Getting Started"
   },
   "modeToggle": {
     "default": "dark",
@@ -52,38 +52,48 @@
   },
   "navigation": [
     {
-      "group": "Getting Started",
+      "group": "Quickstart",
       "pages": [
-        "gettingstarted/intro",
-        "gettingstarted/Create Account",
-        "gettingstarted/Workspace & Roles",
-        "gettingstarted/Self-Hosting Zeon"
+        "gettingstarted/quickstart/intro",
+        "gettingstarted/quickstart/Create Account",
+        "gettingstarted/quickstart/Workspace & Roles"
+      ]
+    },
+    {
+      "group": "Open-Source",
+      "pages": [
+        "opensource/license",
+        "opensource/bugs-and-feature-requests",
+        "opensource/self-hosting-zeon"
+      ]
+    },
+    {
+      "group": "Developer Notes",
+      "pages": [
+        "devnotes/contributing",
+        "devnotes/developer-workflow",
+        "devnotes/local-setup",
+        "devnotes/frontend-development",
+        "devnotes/backend-development"
       ]
     },
     {
       "group": "Chat Deployments",
+      "pages": ["chat/deployments/widget"]
+    },
+    {
+      "group": "Module Functions",
       "pages": [
-        "deployments/HTML",
-        "deployments/Webflow",
-        "deployments/WordPress",
-        "deployments/React"
+        "chat/Auto-Responder",
+        "chat/Internal Notes",
+        "chat/Operating Hours",
+        "chat/Canned Responses",
+        "chat/Widgets"
       ]
     },
     {
-      "group": "Chat Module Functions",
-      "pages": [
-        "gettingstarted/intro",
-        "gettingstarted/code",
-        "gettingstarted/introduction"
-      ]
-    },
-    {
-      "group": "Chat Module Theming",
-      "pages": ["theming/widget"]
-    },
-    {
-      "group": "Getting Started",
-      "pages": ["opensource/license", "opensource/contributing"]
+      "group": "Module Theming",
+      "pages": ["chat/theming/widget"]
     }
   ],
   "footerSocials": {
