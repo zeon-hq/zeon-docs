@@ -7,12 +7,12 @@
   },
   "favicon": "/favicon.svg",
   "colors": {
-    "primary": "#0E62FE",
-    "light": "#0E62FE",
-    "dark": "#0E62FE",
+    "primary": "#000000",
+    "light": "#3C69E7",
+    "dark": "#000000",
     "anchors": {
-      "from": "#0D9373",
-      "to": "#07C983"
+      "from": "#000000",
+      "to": "#000000"
     }
   },
   "topbarLinks": [
@@ -28,7 +28,7 @@
   "tabs": [
     {
       "name": "Roadmap",
-      "url": "essentials"
+      "url": "https://www.google.com"
     },
     {
       "name": "Blog",
@@ -45,17 +45,19 @@
   },
   "navigation": [
     {
-      "group": "Get Started",
-      "pages": ["introduction", "quickstart", "development"]
+      "group": "Getting Started",
+      "pages": [
+        "gettingstarted/intro",
+        "gettingstarted/code",
+        "gettingstarted/introduction"
+      ]
     },
     {
-      "group": "Essentials",
+      "group": "Getting Started",
       "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation"
+        "gettingstarted/intro",
+        "gettingstarted/code",
+        "gettingstarted/introduction"
       ]
     }
   ],
