@@ -17,7 +17,7 @@
   },
   "topbarLinks": [
     {
-      "name": "Go Back Home",
+      "name": "Discord",
       "url": "https://zeonhq.com"
     }
   ],
@@ -29,18 +29,6 @@
     {
       "name": "Chat",
       "url": "chat"
-    },
-    {
-      "name": "Roadmap",
-      "url": "https://www.google.com"
-    },
-    {
-      "name": "Blog",
-      "url": "https://www.google.com"
-    },
-    {
-      "name": "Discord",
-      "url": "https://www.google.com"
     }
   ],
   "primaryTab": {
@@ -55,15 +43,16 @@
       "group": "Quickstart",
       "pages": [
         "gettingstarted/quickstart/intro",
-        "gettingstarted/quickstart/Create Account",
-        "gettingstarted/quickstart/Workspace & Roles"
+        "gettingstarted/quickstart/Workspace & Roles",
+        "gettingstarted/quickstart/Roadmap",
+        "gettingstarted/quickstart/Support",
+        "gettingstarted/quickstart/bugs-and-feature-requests"
       ]
     },
     {
       "group": "Open-Source",
       "pages": [
         "opensource/license",
-        "opensource/bugs-and-feature-requests",
         "opensource/self-hosting-zeon"
       ]
     },
