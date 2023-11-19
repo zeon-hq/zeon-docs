@@ -61,9 +61,7 @@
       "group": "Developer Notes",
       "pages": [
         "gettingstarted/devnotes/workflow",
-        "gettingstarted/devnotes/localsetup",
-        "gettingstarted/devnotes/frontend",
-        "gettingstarted/devnotes/backend"
+        "gettingstarted/devnotes/localsetup"
       ]
     },
     {
