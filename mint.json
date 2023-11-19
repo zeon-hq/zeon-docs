@@ -52,6 +52,7 @@
     {
       "group": "Open-Source",
       "pages": [
+        "gettingstarted/opensource/about",
         "gettingstarted/opensource/license",
         "gettingstarted/opensource/contributing",
         "gettingstarted/opensource/self-host"
