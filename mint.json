@@ -43,41 +43,41 @@
       "group": "Quickstart",
       "pages": [
         "gettingstarted/quickstart/intro",
-        "gettingstarted/quickstart/Workspace & Roles",
-        "gettingstarted/quickstart/Roadmap",
-        "gettingstarted/quickstart/Support",
-        "gettingstarted/quickstart/bugs-and-feature-requests"
+        "gettingstarted/quickstart/workspace-roles",
+        "gettingstarted/quickstart/roadmap",
+        "gettingstarted/quickstart/support",
+        "gettingstarted/quickstart/bugs-features"
       ]
     },
     {
       "group": "Open-Source",
       "pages": [
-        "opensource/license",
-        "opensource/self-hosting-zeon"
+        "gettingstarted/opensource/license",
+        "gettingstarted/opensource/contributing",
+        "gettingstarted/opensource/self-host"
       ]
     },
     {
       "group": "Developer Notes",
       "pages": [
-        "devnotes/contributing",
-        "devnotes/developer-workflow",
-        "devnotes/local-setup",
-        "devnotes/frontend-development",
-        "devnotes/backend-development"
+        "gettingstarted/devnotes/workflow",
+        "gettingstarted/devnotes/localsetup",
+        "gettingstarted/devnotes/frontend",
+        "gettingstarted/devnotes/backend"
       ]
     },
     {
-      "group": "Chat Deployments",
+      "group": "Usage",
       "pages": ["chat/deployments/widget"]
     },
     {
       "group": "Module Functions",
       "pages": [
-        "chat/Auto-Responder",
-        "chat/Internal Notes",
-        "chat/Operating Hours",
-        "chat/Canned Responses",
-        "chat/Widgets"
+        "chat/functions/autoresponder",
+        "chat/functions/internalnotes",
+        "chat/functions/operatinghours",
+        "chat/functions/cannedresponses",
+        "chat/functions/widgets"
       ]
     },
     {
