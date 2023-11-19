@@ -73,6 +73,7 @@
     {
       "group": "Module Functions",
       "pages": [
+        "chat/functions/emailcapture",
         "chat/functions/autoresponder",
         "chat/functions/internalnotes",
         "chat/functions/operatinghours",
