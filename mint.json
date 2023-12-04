@@ -23,12 +23,12 @@
   "topbarLinks": [
     {
       "name": "Discord",
-      "url": "https://discord.gg/xG2nbu5CMr"
+      "url": "https://discord.gg/VAtmzWZQAr"
     }
   ],
   "topbarCtaButton": {
     "type": "github",
-    "url": "https://github.com/zeon-hq/zeon-docs"
+    "url": "https://github.com/zeon-hq/zeon"
   },
   "tabs": [
     {
