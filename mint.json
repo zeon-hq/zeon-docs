@@ -23,17 +23,29 @@
   "topbarLinks": [
     {
       "name": "Discord",
-      "url": "https://discord.gg/xG2nbu5CMr"
+      "url": "https://discord.gg/VAtmzWZQAr"
     }
   ],
   "topbarCtaButton": {
     "type": "github",
-    "url": "https://github.com/zeon-hq/zeon-docs"
+    "url": "https://github.com/zeon-hq/zeon"
   },
   "tabs": [
     {
-      "name": "Chat",
-      "url": "chat"
+      "name": "Front Desk",
+      "url": "frontdesk"
+    },
+    {
+      "name": "Relations",
+      "url": "relations"
+    },
+    {
+      "name": "Finance",
+      "url": "finance"
+    },
+    {
+      "name": "Developer Notes",
+      "url": "devnotes"
     }
   ],
   "primaryTab": {
@@ -72,22 +84,22 @@
     },
     {
       "group": "Usage",
-      "pages": ["chat/deployments/widget"]
+      "pages": ["frontdesk/deployments/widget"]
     },
     {
       "group": "Module Functions",
       "pages": [
-        "chat/functions/emailcapture",
-        "chat/functions/autoresponder",
-        "chat/functions/internalnotes",
-        "chat/functions/operatinghours",
-        "chat/functions/cannedresponses",
-        "chat/functions/widgets"
+        "frontdesk/functions/emailcapture",
+        "frontdesk/functions/autoresponder",
+        "frontdesk/functions/internalnotes",
+        "frontdesk/functions/operatinghours",
+        "frontdesk/functions/cannedresponses",
+        "frontdesk/functions/widgets"
       ]
     },
     {
       "group": "Module Theming",
-      "pages": ["chat/theming/widget"]
+      "pages": ["frontdesk/theming/widget"]
     }
   ],
   "footerSocials": {
