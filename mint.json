@@ -76,15 +76,12 @@
       ]
     },
     {
-      "group": "Developer Notes",
-      "pages": [
-        "gettingstarted/devnotes/workflow",
-        "gettingstarted/devnotes/localsetup"
-      ]
-    },
-    {
       "group": "Usage",
-      "pages": ["frontdesk/deployments/widget"]
+      "pages": [
+        "frontdesk/deployments/widget",
+        "frontdesk/deployments/embeddable"
+      ]
+      
     },
     {
       "group": "Module Functions",
@@ -100,6 +97,52 @@
     {
       "group": "Module Theming",
       "pages": ["frontdesk/theming/widget"]
+    },
+    {
+      "group": "Entity Management",
+      "pages": [
+        "relations/contacts",
+        "relations/companies",
+        "relations/interactions",
+        "relations/notes",
+        "relations/attachments",
+        "relations/attributes"
+      ]
+    },
+    {
+      "group": "Pipeline Management",
+      "pages": [
+        "relations/pipeline",
+        "relations/customattributes"
+      ]
+    },
+    {
+      "group": "Expense Management",
+      "pages": [
+        "finance/expense",
+        "finance/invoice",
+        "finance/approvals",
+        "finance/sgacapex",
+        "finance/payroll"
+      ]
+    },
+    {
+      "group": "Revenue Management",
+      "pages": ["finance/revenue", "finance/stripe"]
+    },
+    {
+      "group": "Accounting",
+      "pages": [
+        "finance/model",
+        "finance/balancesheet",
+        "finance/profitloss",
+        "finance/ledger",
+        "finance/accountant"
+      ]
+    },
+    {
+      "group": "Notes",
+      "pages": ["devnotes/workflow", "devnotes/localsetup"]
     }
   ],
   "footerSocials": {
